@@ -1,0 +1,43 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;	
+}
+.main{
+	max-width: 100%;
+	position: relative;
+}
+.fac h1 {
+	text-align: center;
+	color: green;
+	font-weight: bold;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+td {
+	width: 400px;
+	position: relative;
+}
+th {
+	background-color: #202020;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+b {
+	font-size: 30px;
+}
+p {
+	line-height: 2;
+}
